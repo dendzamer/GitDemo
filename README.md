@@ -1,4 +1,4 @@
-# Git Demo Repository
+# Git Demo Repo
 This is a sample app/repository for the Git course.
 
 ## How to Work With Git
