@@ -3,6 +3,7 @@ This is a sample app/repository for the Git course.
 
 ## GUIs
 * This change made by VSCode
+* This Change made by Visual Studio
 
 ## How to Work With Git
 1. git checkout main
